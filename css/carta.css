@@ -1,0 +1,64 @@
+*{
+    box-sizing: border-box;
+}
+
+#container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.card {
+    margin: 0 6rem;
+    margin-bottom: 5%;
+}
+
+.tagliatella-btn {
+    background-color: #BF0426;
+    color: #FFFFFF;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-bottom: 20px; 
+}
+
+
+.tagliatella-btn:hover {
+    background-color: #a70000; 
+}
+
+.card-img-top {
+    transition: transform 0.3s ease; /* Transición suave de transformación */
+}
+
+.card-img-top:hover {
+    transform: scale(1.05); /* Escala la imagen al 110% de su tamaño original */
+}
+
+.boton {
+    text-align: center; 
+    margin-top: 4rem; 
+}
+
+#contenido {
+    text-align: center;
+}
+
+h5{
+    color: rgb(145, 4, 4);
+}
+
+#salsa {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around; 
+}
+
+
+@media (max-width: 768px) {
+    .card {
+        width: 100%; /
+    }
+}

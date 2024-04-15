@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<platos>
+  <!-- carta -->
+    <plato tema="carta">
+      <title>Aperitivi</title>
+        <img src="./img/carta/aperitivo.jpg" ></img>
+    </plato>
+    <plato tema="carta">
+      <title>Antipasti</title>
+        <img src="./img/carta/antipasti.jpg"></img>
+    </plato>
+    <plato tema="carta">
+      <title>Insalate</title>
+        <img src="./img/carta/insalate.jpg"></img>
+    </plato>
+    <plato tema="carta">
+      <title>Le pizze</title>
+        <img src="./img/carta/le_pizze.jpg"></img>
+    </plato>
+    <plato tema="carta">
+      <title>Pasta tradizionale</title>
+        <img src="./img/carta/pasta_tradizionale.jpg"></img>
+    </plato>
+    <plato tema="carta">
+      <title>Dolci</title>
+        <img src="./img/carta/dolci.jpg"></img>
+    </plato>
+    <!-- recomendaciones -->
+    <plato tema="recomendaciones">
+          <title>Bella Puglia</title>
+        <img src="./img/pizze/bella_puglia.jpg"></img>
+    </plato>
+    <plato tema="recomendaciones">
+      <title>Fondente Lombardía</title>
+        <img src="./img/antipasti/fondente_lombardia.jpg"></img>
+    </plato>
+    <plato tema="recomendaciones">
+      <title>Tagliatella</title>
+        <img src="./img/pizze/pizza_tagliatella.jpg"></img>
+    </plato>
+    <plato tema="recomendaciones">
+      <title>Lomo Cosenza</title>
+        <img src="./img/novedades/piatti_principali.jpg"></img>
+    </plato>
+    <plato tema="recomendaciones">
+      <title>Crocante de manzana</title>
+        <img src="./img/dolci/crocante.jpg"></img>
+    </plato>
+    <!-- novedades -->
+    <plato tema="novedades">
+      <title>Gondola ripiena</title>
+        <img src="./img/novedades/gondola.jpg"></img>
+    </plato>
+    <plato tema="novedades">
+      <title>Campagnola</title>
+        <img src="./img/pizze/campagnola.jpg"></img>
+    </plato>
+    <plato tema="novedades">
+      <title>Tricolore</title>
+        <img src="./img/pizze/tricolore.jpg"></img>
+    </plato>
+    <plato tema="novedades">
+      <title>Torta di carote</title>
+        <img src="./img/dolci/torta.jpg"></img>
+    </plato>
+    <plato tema="novedades">
+      <title>Crocante de manzana</title>
+        <img src="./img/dolci/crocante.jpg"></img>
+    </plato>
+    <!-- aperitivi -->
+    <plato tema="aperitivi">
+      <title>Pane de La Tagliatella (3 Bastoni)</title>
+      <description>Auténtica focaccia italiana con tomates, aceitunas y cebolla.</description>
+        <img src="../img/aperitivi/3.jpg"></img>
+        <imagen tema="uno" src="../img/alergenos/gluten.png" width="15%">  Cereales con gluten</imagen>
+    </plato>
+    <plato tema="aperitivi">
+      <title>Pane de La Tagliatella (6 Bastoni)</title>
+      <description>Auténtica focaccia italiana con tomates, aceitunas y cebolla.</description>
+        <img src="../img/aperitivi/6.jpg"></img>
+        <imagen tema="uno" src="../img/alergenos/gluten.png" width="15%">  Cereales con gluten</imagen>
+    </plato>
+    <plato tema="aperitivi">
+      <title>Tortellini Fritti</title>
+      <description>Rellenos de carne asada. Acompañados de salsa de tomate confitado amarillo.</description>
+        <img src="../img/aperitivi/tortelini.jpg"></img>  
+        <imagen tema="uno" src="../img/alergenos/lacteos.png" width="15%">  Lácteos</imagen> 
+    </plato>
+    <!-- antipasti -->
+    <plato tema="antipasti">
+      <title>Fondente Lombardía</title>
+      <description>Selección de quesos (mozzarella, Gorgonzola DOP, Taleggio DOP, Grana Padano DOP y provolone), manzana, nueces, focaccia genovesa y confettura di pomodoro.</description>
+        <img src="../img/antipasti/fondente_lombardia.jpg"></img>
+        <imagen tema="uno" src="../img/alergenos/gluten.png" width="15%">  Cereales con gluten</imagen>
+        <imagen tema="uno" src="../img/alergenos/huevos.png" width="15%">  Huevos</imagen> 
+        <imagen tema="uno" src="../img/alergenos/soja.png" width="15%">  Soja</imagen>  
+        <imagen tema="uno" src="../img/alergenos/lacteos.png" width="15%">  Lácteos</imagen> 
+        <imagen tema="uno" src="../img/alergenos/apio.png" width="15%">  Apio</imagen>
+        <imagen tema="uno" src="../img/alergenos/frutos.png" width="15%">  Frutos de cáscara</imagen> 
+    </plato>
+    <plato tema="antipasti">
+      <title>Burrata e panzanella</title>
+      <description>Queso burrata, base de tomate confitado amarillo, oliva taggiasca, cebolla balsámica, focaccia genovesa, tomate cherry y almendra.</description>
+        <img src="../img/antipasti/burrata.jpg"></img>
+        <imagen tema="uno" src="../img/alergenos/gluten.png" width="15%">  Cereales con gluten</imagen>
+        <imagen tema="uno" src="../img/alergenos/huevos.png" width="15%">  Huevos</imagen> 
+        <imagen tema="uno" src="../img/alergenos/soja.png" width="15%">  Soja</imagen>  
+        <imagen tema="uno" src="../img/alergenos/lacteos.png" width="15%">  Lácteos</imagen> 
+        <imagen tema="uno" src="../img/alergenos/apio.png" width="15%">  Apio</imagen>
+        <imagen tema="uno" src="../img/alergenos/frutos.png" width="15%">  Frutos de cáscara</imagen> 
+    </plato>
+    <plato tema="antipasti">
+      <title>Provoletta</title>
+      <description>Queso provolone fundido con verduras horneadas.</description>
+        <img src="../img/antipasti/provoletta.jpg"></img>  
+        <imagen tema="uno" src="../img/alergenos/lacteos.png" width="15%">  Lácteos</imagen> 
+    </plato>
+    <!-- insalate -->
+    <plato tema="insalate">
+      <title>Insalata Tagliatella</title>
+      <description>Variado de lechugas, tomate confitado, nueces y manzana caramelizadas, crujiente de coppa, mousse de ricotta y crujiente de Grana Padano DOP.</description>
+        <img src="../img/insalate/insalata.jpg"></img>
+        <imagen tema="uno" src="../img/alergenos/huevos.png" width="15%">  Huevos</imagen> 
+        <imagen tema="uno" src="../img/alergenos/lacteos.png" width="15%">  Lácteos</imagen> 
+        <imagen tema="uno" src="../img/alergenos/frutos.png" width="15%">  Frutos de cáscara</imagen> 
+    </plato>
+    <plato tema="insalate">
+      <title>Insalata affumicata</title>
+      <description>Variado de lechugas, langostinos, salmón, bacalao, alici marinado, picadillo de cangrejo y tomate confitado.</description>
+        <img src="../img/insalate/affumicata.jpg"></img>
+        <imagen tema="uno" src="../img/alergenos/crustaceos.png" width="15%">  Crustáceos</imagen>
+        <imagen tema="uno" src="../img/alergenos/huevos.png" width="15%">  Huevos</imagen>
+        <imagen tema="uno" src="../img/alergenos/pescado.png" width="15%">  Pescado</imagen>
+        <imagen tema="uno" src="../img/alergenos/soja.png" width="15%">  Soja</imagen>
+    </plato>
+    <plato tema="insalate">
+      <title>Insalata cremoso di rullo di capra</title>
+      <description>Variado de lechugas, mousse de rulo de cabra, galletas con pipas de calabaza, Parmigiano Reggiano DOP, pera caramelizada, pipas de calabaza caramelizadas, tomate confitado y confettura di pomodoro.</description>
+        <img src="../img/insalate/cabra.jpg"></img>  
+        <imagen tema="uno" src="../img/alergenos/gluten.png" width="15%">  Cereales con gluten</imagen>
+        <imagen tema="uno" src="../img/alergenos/huevos.png" width="15%">  Huevos</imagen>
+        <imagen tema="uno" src="../img/alergenos/soja.png" width="15%">  Soja</imagen>
+        <imagen tema="uno" src="../img/alergenos/lacteos.png" width="15%">  Lácteos</imagen>
+        <imagen tema="uno" src="../img/alergenos/apio.png" width="15%">  Apio</imagen>
+        <imagen tema="uno" src="../img/alergenos/frutos.png" width="15%">  Frutos de cáscara</imagen>
+    </plato>
+    <!-- pasta -->
+    <plato tema="pasta">
+      <title>Sorrentino </title>
+      <description>De Parmigiano Reggiano DOP y jamón serrano.</description>
+        <img src="../img/pasta/sorrentino.jpg"></img>
+        <imagen tema="uno" src="../img/alergenos/gluten.png" width="15%">  Cereales con gluten</imagen>
+        <imagen tema="uno" src="../img/alergenos/huevos.png" width="15%">  Huevos</imagen>
+        <imagen tema="uno" src="../img/alergenos/lacteos.png" width="15%">  Lácteos</imagen> 
+    </plato>
+    <plato tema="pasta">
+      <title>Mezzaluna</title>
+      <description>De rulo de cabra y bacon.</description>
+        <img src="../img/pasta/mezzaluna.jpg"></img>
+        <imagen tema="uno" src="../img/alergenos/gluten.png" width="15%">  Cereales con gluten</imagen>
+        <imagen tema="uno" src="../img/alergenos/huevos.png" width="15%">  Huevos</imagen>
+        <imagen tema="uno" src="../img/alergenos/lacteos.png" width="15%">  Lácteos</imagen> 
+    </plato>
+    <plato tema="pasta">
+      <title>Ravioli</title>
+      <description>De carne.</description>
+        <img src="../img/pasta/ravioli.jpg"></img>
+        <imagen tema="uno" src="../img/alergenos/gluten.png" width="15%">  Cereales con gluten</imagen>
+        <imagen tema="uno" src="../img/alergenos/huevos.png" width="15%">  Huevos</imagen>
+        <imagen tema="uno" src="../img/alergenos/lacteos.png" width="15%">  Lácteos</imagen> 
+    </plato>
+        <plato tema="pasta">
+      <title>Tortellini</title>
+      <description>De carne asada.</description>
+        <img src="../img/pasta/tortellini.jpg"></img>
+        <imagen tema="uno" src="../img/alergenos/gluten.png" width="15%">  Cereales con gluten</imagen>
+        <imagen tema="uno" src="../img/alergenos/huevos.png" width="15%">  Huevos</imagen> 
+        <imagen tema="uno" src="../img/alergenos/soja.png" width="15%">  Soja</imagen>
+        <imagen tema="uno" src="../img/alergenos/lacteos.png" width="15%">  Lácteos</imagen> 
+        <imagen tema="uno" src="../img/alergenos/apio.png" width="15%">  Apio</imagen>
+    </plato>
+    <plato tema="pasta">
+      <title>Cuore di zucca</title>
+      <description>De calabaza y ricotta.</description>
+        <img src="../img/pasta/cuore.jpg"></img>
+        <imagen tema="uno" src="../img/alergenos/gluten.png" width="15%">  Cereales con gluten</imagen>
+        <imagen tema="uno" src="../img/alergenos/huevos.png" width="15%">  Huevos</imagen>
+        <imagen tema="uno" src="../img/alergenos/lacteos.png" width="15%">  Lácteos</imagen> 
+    </plato>
+    <plato tema="pasta">
+      <title>Triangoli </title>
+      <description>De Gorgonzola DOP y pera.</description>
+        <img src="../img/pasta/triangoli.jpg"></img>  
+        <imagen tema="uno" src="../img/alergenos/gluten.png" width="15%">  Cereales con gluten</imagen>
+        <imagen tema="uno" src="../img/alergenos/lacteos.png" width="15%">  Lácteos</imagen> 
+    </plato>
+    <!-- pasta/salsa -->
+    <plato tema="salsa">
+      <title>Pesto rosso panna</title>
+      <description>Crema, tomate seco, piñones, queso y nueces.</description>
+    </plato>
+    <plato tema="salsa">
+      <title>Vera Napoletana</title>
+      <description>Salsa de tomate napoletano, tartar de Mozzarella di Búfala DOP, albahaca, perlas de pesto y aceite de albahaca.</description>
+    </plato>
+    <plato tema="salsa">
+      <title>Tartufo al parmigiano</title>
+      <description>Trufa negra, Parmigiano Reggiano DOP y huevo frito.</description>
+    </plato>
+        <plato tema="salsa">
+      <title>Tartufo e funghi</title>
+      <description>Crema, setas y trufa.</description>
+    </plato>
+    <plato tema="salsa">
+      <title>Arrabbiata</title>
+      <description>Tomate, salami picante de Calabria, cebolla, ajo y albahaca. Puedes acompañarla, si lo deseas, de aceite picante.</description>
+    </plato>
+    <plato tema="salsa">
+      <title>Marbonara</title>
+      <description>La versión marinera de nuestra Carbonara, con cola de langostino y pancetta italiana.</description>
+    </plato>
+    <plato tema="salsa">
+      <title>Casalinga</title>
+      <description>Longaniza casera, tomate, quesos, albahaca, champiñones y piñones. Cubierta con una pierina crujiente y aderezada con aceite de tomate seco y de albahaca.</description>
+    </plato>
+    <!-- pizze -->
+    <plato tema="pizze">
+      <title>Bella Puglia</title>
+      <description>Tomate, mozzarella, provolone, spalmaforte (sobrasada italiana), tomate confitado amarillo, miel y nueces.</description>
+        <img src="../img/pizze/bella_puglia.jpg"></img>
+        <imagen tema="uno" src="../img/alergenos/gluten.png" width="15%">  Cereales con gluten</imagen>
+        <imagen tema="uno" src="../img/alergenos/lacteos.png" width="15%">  Lácteos</imagen> 
+        <imagen tema="uno" src="../img/alergenos/frutos.png" width="15%">  Frutos de cáscara</imagen> 
+    </plato>
+    <plato tema="pizze">
+      <title>Campagnola</title>
+      <description>Tomate, mozzarella, salsiccia italiana, queso scamorza ahumado, champiñones, tomate confitado amarillo y tomate cherry.</description>
+        <img src="../img/pizze/campagnola.jpg"></img>
+        <imagen tema="uno" src="../img/alergenos/gluten.png" width="15%">  Cereales con gluten</imagen>
+        <imagen tema="uno" src="../img/alergenos/lacteos.png" width="15%">  Lácteos</imagen> 
+    </plato>
+    <plato tema="pizze">
+      <title>Tagliatella</title>
+      <description>Salsa de tomate confitado amarillo, mozzarella, Mortadella di Bologna IGP, stracciatella de burrata, pistacho molido, rúcula y aceite de mandarina.</description>
+        <img src="../img/pizze/pizza_tagliatella.jpg"></img>  
+        <imagen tema="uno" src="../img/alergenos/gluten.png" width="15%">  Cereales con gluten</imagen>
+        <imagen tema="uno" src="../img/alergenos/huevos.png" width="15%">  Huevos</imagen>
+        <imagen tema="uno" src="../img/alergenos/soja.png" width="15%">  Soja</imagen>
+        <imagen tema="uno" src="../img/alergenos/lacteos.png" width="15%">  Lácteos</imagen>
+        <imagen tema="uno" src="../img/alergenos/apio.png" width="15%">  Apio</imagen>
+        <imagen tema="uno" src="../img/alergenos/frutos.png" width="15%">  Frutos de cáscara</imagen>
+    </plato>
+    <plato tema="pizze2">
+      <title>Tricolore</title>
+      <description>Salsa de tomate, mozzarella, queso Asiago DOP, Mozzarella di búfala DOP, virutas de Parmigiano Reggiano DOP, tomate confitado, tomate cherry, rúcula y aceite de albahaca.</description>
+        <img src="../img/pizze/tricolore.jpg"></img>
+        <imagen tema="uno" src="../img/alergenos/gluten.png" width="15%">  Cereales con gluten</imagen>
+        <imagen tema="uno" src="../img/alergenos/huevos.png" width="15%">  Huevos</imagen> 
+        <imagen tema="uno" src="../img/alergenos/lacteos.png" width="15%">  Lácteos</imagen> 
+        <imagen tema="uno" src="../img/alergenos/frutos.png" width="15%">  Frutos de cáscara</imagen> 
+    </plato>
+    <plato tema="pizze2">
+      <title>Melazana</title>
+      <description>Tomate, mozzarella, berenjena, Parmigiano Reggiano DOP, miel y crema balsámica.</description>
+        <img src="../img/pizze/melazana.jpg"></img>
+        <imagen tema="uno" src="../img/alergenos/gluten.png" width="15%">  Cereales con gluten</imagen>
+        <imagen tema="uno" src="../img/alergenos/lacteos.png" width="15%">  Lácteos</imagen> 
+    </plato>
+    <plato tema="pizze2">
+      <title>4 Stagioni</title>
+      <description>Tomate, mozzarella, champiñones, cola de langostino, pancetta italiana y jamón york.</description>
+        <img src="../img/pizze/stagioni.jpg"></img>  
+        <imagen tema="uno" src="../img/alergenos/gluten.png" width="15%">  Cereales con gluten</imagen>
+        <imagen tema="uno" src="../img/alergenos/crustaceos.png" width="15%">  Crustáceos</imagen>
+        <imagen tema="uno" src="../img/alergenos/lacteos.png" width="15%">  Lácteos</imagen>
+    </plato>
+    <!-- dolci -->
+    <plato tema="dolci">
+      <title>Caffé gustoso</title>
+      <description>Café acompañado de trufas de chocolate y mini tiramisú.</description>
+        <img src="../img/dolci/cioc.jpg"></img>
+        <imagen tema="uno" src="../img/alergenos/gluten.png" width="15%">  Cereales con gluten</imagen>
+        <imagen tema="uno" src="../img/alergenos/huevos.png" width="15%">  Huevos</imagen> 
+        <imagen tema="uno" src="../img/alergenos/soja.png" width="15%">  Soja</imagen>  
+        <imagen tema="uno" src="../img/alergenos/lacteos.png" width="15%">  Lácteos</imagen>  
+    </plato>
+    <plato tema="dolci">
+      <title>Tutto cioccolato</title>
+      <description>Con helado al gusto.</description>
+        <img src="../img/dolci/ciocco.jpg"></img>
+        <imagen tema="1" src="../img/alergenos/gluten.png" width="15%">  Cereales con gluten</imagen>
+        <imagen tema="1" src="../img/alergenos/huevos.png" width="15%">  Huevos</imagen> 
+        <imagen tema="1" src="../img/alergenos/soja.png" width="15%">  Soja</imagen>  
+        <imagen tema="1" src="../img/alergenos/lacteos.png" width="15%">  Lácteos</imagen> 
+    </plato>
+    <plato tema="dolci">
+      <title>Torta di carote</title>
+      <description>Tradicional tarta de zanahoria, glaseada y con un toque de cacao.</description>
+        <img src="../img/dolci/torta.jpg"></img>
+        <imagen tema="2" src="../img/alergenos/gluten.png" width="15%">  Cereales con gluten</imagen>
+        <imagen tema="2" src="../img/alergenos/huevos.png" width="15%">  Huevos</imagen> 
+        <imagen tema="2" src="../img/alergenos/lacteos.png" width="15%">  Lácteos</imagen>  
+    </plato>
+    <plato tema="dolci">
+      <title>Crocante de manzana</title>
+      <description>Manzana horneada con nueces y cubierta con crumble, helado de vainilla y chocolate fundido.</description>
+        <img src="../img/dolci/crocante.jpg"></img>
+        <imagen tema="3" src="../img/alergenos/gluten.png" width="15%">  Cereales con gluten</imagen>
+        <imagen tema="3" src="../img/alergenos/huevos.png" width="15%">  Huevos</imagen>
+        <imagen tema="3" src="../img/alergenos/soja.png" width="15%">  Soja</imagen>
+        <imagen tema="3" src="../img/alergenos/lacteos.png" width="15%">  Lácteos</imagen>
+        <imagen tema="3" src="../img/alergenos/apio.png" width="15%">  Apio</imagen>
+        <imagen tema="3" src="../img/alergenos/frutos.png" width="15%">  Frutos de cáscara</imagen>
+    </plato>
+</platos>
